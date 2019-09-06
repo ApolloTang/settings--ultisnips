@@ -1,4 +1,7 @@
 
-cd path/to/configuration/vim/vim-coc-setting-backup/coc/
-git clone <this repo url>
+Path to this repo should be:
+```
+path/to/configuration/vim/vim-coc-setting-backup/coc/ultisnips
+```
+
 
